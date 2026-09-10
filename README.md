@@ -29,9 +29,11 @@ Bu proje, Flutter'ın temel yapı taşlarını kavramak amacıyla hazırlanmış
 
 ## Uygulama Ekran Görüntüleri
 
+## Uygulama Ekran Görüntüleri
+
 | Sözel Bölüm | Sayısal Bölüm | Görsel Bölüm | Test Sonucu |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/sozel.png" width="220" /> | <img src="screenshots/sayisal.png" width="220" /> | <img src="screenshots/gorsel.png" width="220" /> | <img src="screenshots/sonuc.png" width="220" /> |
+| <img src="1..png" width="220" /> | <img src="2..png" width="220" /> | <img src="3..png" width="220" /> | <img src="4..png" width="220" /> |
 ##  Çalıştırma
 
 ```bash
